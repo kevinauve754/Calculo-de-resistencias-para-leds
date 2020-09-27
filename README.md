@@ -1,4 +1,6 @@
 # Calculo-de-resistencias-para-leds
+//Kevin Eduardo González Avendaño
+//24/09/2020
 #include <stdio.h>
 
 int main(){
